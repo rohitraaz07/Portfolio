@@ -359,7 +359,7 @@ profile-photo .img{
 
 /*---------------------------Projects---------------------------*/
 .project-content{
-  padding: 100px;
+  padding-top: 100px;
 }
 .project-title{
   margin-bottom: 30px;
@@ -381,7 +381,6 @@ profile-photo .img{
   flex-wrap: wrap;
 }
 .project{
-    padding: 30px 15px;
     color: #e5e5e5;
     border: 2px solid #e5e5e5;
     border-radius: 10px;
